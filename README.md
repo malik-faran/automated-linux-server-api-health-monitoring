@@ -244,4 +244,4 @@ main bundle, which is a known optimization item.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
